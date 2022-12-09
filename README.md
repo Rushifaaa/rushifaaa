@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![profile-pcture](https://user-images.githubusercontent.com/48136003/206684206-33ca045e-993b-40a7-acb9-36645338f646.jpg)
+
+
 <!--
 **Rushifaaa/rushifaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
